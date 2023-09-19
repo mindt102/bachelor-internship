@@ -1,0 +1,9 @@
+[submodule "gitops-openscap"]
+	path = gitops-openscap
+	url = https://github.com/mindt102/gitops-openscap
+[submodule "gitops-pentestlab"]
+	path = gitops-pentestlab
+	url = https://github.com/mindt102/gitops-pentestlab
+[submodule "gitops-wazuh"]
+	path = gitops-wazuh
+	url = https://github.com/mindt102/gitops-wazuh
